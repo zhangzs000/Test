@@ -5,6 +5,13 @@ function App() {
   const test = ()=>{
     console.log(1111)
   }
+  const test1 = ()=>{
+
+
+
+
+    console.log(1111)
+  }
   return (
     <div className="App">
       <header className="App-header">
@@ -12,6 +19,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <button onClick={test}>aaaaa</button>
+          <button onClick={test1}>bbbb</button>
         </p>
         <a
           className="App-link"
