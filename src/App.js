@@ -14,8 +14,10 @@ function App() {
   const test2 = () => {
 
 
-    
+
     console.log(1111);
+
+    
   };
   return (
     <div className="App">
@@ -24,7 +26,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <button onClick={test}>aaaaa</button>
+
           <button onClick={test1}>bbbb</button>
+
           <button onClick={test2}>cccc</button>
         </p>
         <a
