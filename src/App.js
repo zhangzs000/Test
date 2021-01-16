@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
-  const test = ()=>{
-    console.log(1111)
-  }
-  const test1 = ()=>{
+  const test = () => {
+    console.log(1111);
+  };
+  const test1 = () => {
 
 
 
-
-    console.log(1111)
-  }
-  const test2 = ()=>{
-
+    console.log(1111);
+  };
+  const test2 = () => {
 
 
-
-    console.log(1111)
-  }
+    
+    console.log(1111);
+  };
   return (
     <div className="App">
       <header className="App-header">
